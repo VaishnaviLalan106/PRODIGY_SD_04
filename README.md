@@ -23,10 +23,10 @@ It also changes color while u hover your mouse on it.🎨💡
 ---
 
 ## 🛠 Tech Stack
--🐍 Python 3
--🪟 Tkinter (GUI library)
--🧠 Backtracking algorithm with visual feedback (smart solving used MRV heuristic)
--🎨 Custom colors, hover effects, button styling
+    -🐍 Python 3
+    -🪟 Tkinter (GUI library)
+    -🧠 Backtracking algorithm with visual feedback (smart solving used MRV heuristic)
+    -🎨 Custom colors, hover effects, button styling
 
 ---
 
