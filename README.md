@@ -13,12 +13,12 @@ It also changes color while u hover your mouse on it.🎨💡
 ---
 
 ## ✨ Features
--🎯 Solve any valid Sudoku puzzle interactively
--🖌️ Beautifully color-coded grid with hover effects
--🎞️ Animated solving with backtracking visualization
--💡 Input validation with clean error messages
--🔄 Load sample puzzle, Clear grid, or Exit anytime
--🔢 Prevents more than one digit per cell for better UX
+    -🎯 Solve any valid Sudoku puzzle interactively 
+    -🖌️ Beautifully color-coded grid with hover effects
+    -🎞️ Animated solving with backtracking visualization
+    -💡 Input validation with clean error messages
+    -🔄 Load sample puzzle, Clear grid, or Exit anytime
+    -🔢 Prevents more than one digit per cell for better UX
 
 ---
 
